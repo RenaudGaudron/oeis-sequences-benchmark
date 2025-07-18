@@ -71,7 +71,7 @@ You can easily load this dataset using the Hugging Face `datasets` library:
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("renaudgaudron/oeis-next-term-prediction")
+dataset = load_dataset("RenaudGaudron/oeis-sequences-benchmark")
 print(dataset)
 ```
 
